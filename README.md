@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi, <b>We are Tech Meadia</B></h1></center>
+<h1 align="center"> Hi, <b>I am Malindu Lakshan</B></h1></center>
 
          
 
