@@ -5,8 +5,8 @@
          
 
          
-Email :- eyeproductslk@gmail.com
-<p>Ownership :-  I & C Designs </P>
+Email :- malindulakshan9966@gmail.com
+<p>Ownership :-  Malindu Lakshan </P>
 <p>Location :- Rathgama, Southern Province, Sri Lanka</P>
 <p>On GitHub Since :- June 2021</P>
 </div>
